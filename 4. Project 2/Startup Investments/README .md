@@ -119,4 +119,10 @@ These patterns translate into a concrete set of recommendations for the firm's $
 
 ## Sources
 
-- Crunchbase startup funding dataset (company profiles, funding rounds, and amounts).
+- Crunchbase startup funding dataset (company profiles, funding rounds, and amounts), provided via the course's pre-assigned project datasets.
+- SciPy Developers. scipy.stats.chi2_contingency — Chi-Square Test of Independence. SciPy Documentation. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html.
+- SciPy Developers. scipy.stats.mannwhitneyu — Mann–Whitney U Test. SciPy Documentation. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html.
+- McKinney, W. pandas: Python Data Analysis Library. Available at: https://pandas.pydata.org/
+- Hunter, J. D. Matplotlib: Visualization with Python. Available at: https://matplotlib.org/
+- Waskom, M. Seaborn: Statistical Data Visualization. Available at: https://seaborn.pydata.org/
+
