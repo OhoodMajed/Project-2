@@ -27,10 +27,9 @@ These patterns translate into a concrete set of recommendations for the firm's $
 | `README.md` | This file — project overview, findings, and conclusions. |
 | `Data/startup_investments_raw.csv` | Original, unmodified Crunchbase dataset as provided. |
 | `Data/startup_investments_cleaned.csv` | Cleaned dataset produced at the end of the data-cleaning process. |
-| `Code/03_EDA.ipynb` | Main analysis notebook: data collection, cleaning, EDA, statistical testing, and findings (this project does not include a separate modeling notebook — see note below). |
-| `Presentation/startup_investments_presentation.pdf` | Slide deck summarizing the problem, process, and findings. |
-| `Presentation/Images/` | Supporting chart images used in the presentation, if exported separately. |
-| `Scratch/` | Exploratory work and drafts not intended for evaluation. |
+| `startup_investments_eda.ipynb` | Main analysis notebook: data collection, cleaning, EDA, statistical testing, and findings (this project does not include a separate modeling notebook — see note below). |
+| `startup_investments_presentation.pdf` | Slide deck summarizing the problem, process, and findings. |
+| `Scratch/Startup Investments Data Dictionary.pdf` | Exploratory work and drafts not intended for evaluation. |
 
 **Note:** Per the assignment scope, this is an EDA-only project — a `04_Modeling` notebook is not applicable here and will be introduced in a future project.
 
@@ -113,7 +112,7 @@ These patterns translate into a concrete set of recommendations for the firm's $
 - **Time Between Seed and Latest Funding Round** — histogram of days elapsed for successful startups.
 - **Multivariate Interaction: Industry × Funding Size × Outcome** — grouped bar chart of median seed funding by industry and outcome.
 
-*(See `Code/03_EDA.ipynb` for the full, rendered set of visualizations and statistical test outputs.)*
+*(See `startup_investments_eda.ipynb` for the full, rendered set of visualizations and statistical test outputs.)*
 
 ---
 
