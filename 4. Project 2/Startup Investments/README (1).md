@@ -1,5 +1,6 @@
 # Optimal Funding Trajectories for Follow-On Investment
 ### Project 2: Exploratory Data Analysis — Startup Investments (Crunchbase)
+#### OHOOD MAJED AHMED
 
 ---
 

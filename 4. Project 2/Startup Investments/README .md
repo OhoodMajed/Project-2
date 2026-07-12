@@ -1,5 +1,6 @@
 # Optimal Funding Trajectories for Follow-On Investment
 ### Project 2: Exploratory Data Analysis (EDA) — Startup Investments
+#### OHOOD MAJED AHMED
 
 ---
 
